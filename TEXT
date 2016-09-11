@@ -14,11 +14,11 @@
 var bot = {
  //Dejar en blanco los mensajes que no se necesiten
  //Se pueden colocar hasta 5 mensajes (si se necesitan más preguntar vía skype: )
-message:"Hello babe!",
-message2:"Female, 19, Asia ",
-message3:"Do u want to see me naked for you?",
-message4:"I'm doing a sexcam show",
-message5:"Here, http://www.tulink.com/asd",
+message:"1",
+message2:"2",
+message3:"3",
+message4:"4",
+message5:"5",
 reach:0,
  //Si te aparece el captcha demasiadas veces, interval:1500
 interval:1000,
